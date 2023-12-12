@@ -13,7 +13,12 @@ function Rockets() {
       </h2>
       <ul className="mx-auto my-12 flex list-none flex-col items-center gap-8 sm:flex-row">
         <li className="flex w-2/3 flex-col items-center rounded-3xl border border-solid border-slate-900 bg-white py-6 px-2 shadow-xl dark:border-gray-100 dark:bg-gray-800 sm:w-5/6">
-          <img src={rocketman} alt="" className="w-1/2 sm:w-5/6" />
+          <img
+            loading="lazy"
+            src={rocketman}
+            alt=""
+            className="w-1/2 sm:w-5/6"
+          />
           <h3 className="text-center text-3xl text-slate-900 dark:text-white">
             Explorer
           </h3>
@@ -25,7 +30,12 @@ function Rockets() {
           </p>
         </li>
         <li className="flex w-2/3 flex-col items-center rounded-3xl border border-solid border-slate-900 bg-white py-6 px-2 shadow-xl dark:border-gray-100 dark:bg-gray-800 sm:w-5/6">
-          <img src={rocketride} alt="" className="w-1/2 sm:w-5/6" />
+          <img
+            loading="lazy"
+            src={rocketride}
+            alt=""
+            className="w-1/2 sm:w-5/6"
+          />
           <h3 className="text-center text-3xl text-slate-900 dark:text-white">
             Adventurer
           </h3>
@@ -37,7 +47,12 @@ function Rockets() {
           </p>
         </li>
         <li className="flex w-2/3 flex-col items-center rounded-3xl border border-solid border-slate-900 bg-white py-6 px-2 shadow-xl dark:border-gray-100 dark:bg-gray-800 sm:w-5/6">
-          <img src={rocketlaunch} alt="" className="w-1/2 sm:w-5/6" />
+          <img
+            loading="lazy"
+            src={rocketlaunch}
+            alt=""
+            className="w-1/2 sm:w-5/6"
+          />
           <h3 className="text-center text-3xl text-slate-900 dark:text-white">
             Infinity
           </h3>

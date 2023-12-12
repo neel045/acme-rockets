@@ -22,7 +22,7 @@ function Hero() {
           Think Acme Rockets
         </p>
       </article>
-      <img className="w-1/2" src={rocketdab} alt="" />
+      <img className="w-1/2" src={rocketdab} alt="" loading="lazy" />
     </section>
   );
 }
