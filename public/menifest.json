@@ -1,0 +1,15 @@
+{
+  "name": "Acme Rocket",
+  "short_name": "ACR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A Rocket Building Compony",
+  "icons": [
+    {
+      "src": "./rocketlaunch-logo.svg",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}
