@@ -12,7 +12,10 @@ function App() {
     <div className="min-h-screen bg-slate-50 dark:bg-gray-800 dark:text-white">
       <Suspense
         fallback={
-          <div className=" flex justify-center items-center container">
+          <div
+            className=" min-h-full flex justify-center items-center"
+            style={{ height: "100vh" }}
+          >
             <div
               className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-current border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]"
               role="status"
