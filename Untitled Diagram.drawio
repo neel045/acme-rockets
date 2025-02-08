@@ -125,15 +125,70 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S7SecFvWHEZc4ES23xaO" name="Appointment Booking">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="akkkV0lf86O0COk6ysZh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ETW4utR8j8SnzAnE3uo-1" target="akkkV0lf86O0COk6ysZh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ETW4utR8j8SnzAnE3uo-1" target="akkkV0lf86O0COk6ysZh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ETW4utR8j8SnzAnE3uo-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ETW4utR8j8SnzAnE3uo-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Appointment Booking&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akkkV0lf86O0COk6ysZh-1" target="akkkV0lf86O0COk6ysZh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-5" value="Can" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="akkkV0lf86O0COk6ysZh-4">
+          <mxGeometry x="-0.2156" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akkkV0lf86O0COk6ysZh-1" target="akkkV0lf86O0COk6ysZh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-8" value="Will" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="akkkV0lf86O0COk6ysZh-7">
+          <mxGeometry x="-0.1421" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-1" value="Patient&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-3" value="Add Medical Hi&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;story&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akkkV0lf86O0COk6ysZh-6" target="akkkV0lf86O0COk6ysZh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-15" value="Therapist gets notify and add to google calendar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="akkkV0lf86O0COk6ysZh-14">
+          <mxGeometry x="-0.1316" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-6" value="Book Appointment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akkkV0lf86O0COk6ysZh-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-12" value="Can" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="akkkV0lf86O0COk6ysZh-11">
+          <mxGeometry x="-0.1687" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-9" value="Therapist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akkkV0lf86O0COk6ysZh-13" value="Book Appointment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
